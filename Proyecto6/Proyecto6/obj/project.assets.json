@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Escritorio\\Proyecto\\Proyecto6\\Proyecto6\\Proyecto6.csproj",
+      "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Escritorio\\Proyect2.0\\Proyecto6\\Proyecto6\\Proyecto6.csproj",
       "projectName": "Proyecto6",
-      "projectPath": "C:\\Users\\renat\\OneDrive\\Escritorio\\Proyecto\\Proyecto6\\Proyecto6\\Proyecto6.csproj",
+      "projectPath": "C:\\Users\\renat\\OneDrive\\Escritorio\\Proyect2.0\\Proyecto6\\Proyecto6\\Proyecto6.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat\\OneDrive\\Escritorio\\Proyecto\\Proyecto6\\Proyecto6\\obj\\",
+      "outputPath": "C:\\Users\\renat\\OneDrive\\Escritorio\\Proyect2.0\\Proyecto6\\Proyecto6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",

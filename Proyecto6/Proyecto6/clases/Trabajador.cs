@@ -32,7 +32,7 @@ namespace Proyecto6.clases
 
         public void TrabajadorAtributos() {
 
-            Console.WriteLine("el nombre del trabajador es renato..."); 
+            Console.WriteLine("el nombre del trabajador es octavio..."); 
         }
     }
 }
