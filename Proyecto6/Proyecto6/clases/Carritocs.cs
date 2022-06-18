@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto6.clases
 {
-    internal class Carritocs
+    public class Carritocs
     {
 
         private int carritocs_id;
@@ -26,6 +26,14 @@ namespace Proyecto6.clases
             this.carritocs_id = carritocs_id;
             this.carritocs_cantidad = carritocs_cantidad;
             this.carrito_fecha = carrito_fecha;
+        }
+
+        public void carritoProducto()
+        {
+            this.carritocs_id = 1;
+            this.carritocs_cantidad = 30;
+            Console.WriteLine("el id del carrito es: " + this.carritocs_id);
+            Console.WriteLine("la cantidad de productos es: " + this.carritocs_cantidad);
         }
     }
 }

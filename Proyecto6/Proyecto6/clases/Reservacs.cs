@@ -27,5 +27,14 @@ namespace Proyecto6.clases
             this.reserva_fecha = reserva_fecha;
             this.reserva_tipo = reserva_tipo;
         }
+        public void reservas()
+        {
+            this.reserva_id = 1;
+            this.reserva_tipo = "Corte de cabello";
+
+            Console.WriteLine("el id del trabajador: " + this.reserva_id);
+            Console.WriteLine("el rut del trabajador: " + this.reserva_tipo);
+
+        }
     }
 }

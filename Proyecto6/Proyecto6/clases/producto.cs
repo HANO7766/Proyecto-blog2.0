@@ -29,5 +29,16 @@ namespace Proyecto6.clases
             this.producto_precio = producto_precio;
             this.stock = stock;
         }
+        public void Productos()
+        {
+            this.producto_id = 1;
+            this.producto_nombre = "shampoo anti caspa";
+            this.producto_precio = 12000;
+            this.stock = 10;
+            Console.WriteLine("el id del producto: " + this.producto_id);
+            Console.WriteLine("el nombre del producto es : " + this.producto_nombre);
+            Console.WriteLine("el el precio es: " + this.producto_precio);
+            Console.WriteLine("la stock es: " + this.stock);
+        }
     }
 }

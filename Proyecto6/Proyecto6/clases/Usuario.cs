@@ -30,5 +30,16 @@ namespace Proyecto6.clases
             this.usuario_estadocuenta = usuario_estadocuenta;
             this.usuario_fecharegistro = usuario_fecharegistro;
         }
+        public void UsuarioRegistro()
+        {
+            this.usuario_id = 1;
+            this.usuario_contraseña = "osopanda";
+            this.usuario_estadocuenta = true;
+
+            Console.WriteLine("el id del usuario: " + this.usuario_id);
+            Console.WriteLine("la contraseña del usuario: " + this.usuario_contraseña);
+            Console.WriteLine("el estado del usuario es: " + this.usuario_estadocuenta);
+        }
     }
 }
+
